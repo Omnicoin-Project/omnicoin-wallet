@@ -7,8 +7,8 @@
 	<artifactId>wallet</artifactId>
 	<packaging>apk</packaging>
 
-	<version>0.0.1</version>
-	<name>omnicoin Wallet</name>
+	<version>0.1.1</version>
+	<name>Omnicoin Wallet</name>
 
 
 	<parent>
