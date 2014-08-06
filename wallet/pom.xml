@@ -7,8 +7,8 @@
 	<artifactId>wallet</artifactId>
 	<packaging>apk</packaging>
 
-	<version>0.1.5</version>
-	<name>digitalcoin Wallet</name>
+	<version>0.0.1</version>
+	<name>omnicoin Wallet</name>
 
 
 	<parent>
@@ -63,7 +63,7 @@
 		<dependency>
 			<groupId>com.google</groupId>
 
-			<artifactId>digitalcoinj</artifactId>
+			<artifactId>omnicoinj</artifactId>
 			<version>0.12-SNAPSHOT</version>
 
 		</dependency>
