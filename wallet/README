@@ -13,17 +13,17 @@ which should be compatible between clients using bitcoinj.
 
 Certain actions cause automatic rolling backups of your private keys to app-private storage:
 
-/data/data/de.schildbach.wallet.digitalcoin/files/key-backup-base58 (MODE_PRIVATE)
+/data/data/de.schildbach.wallet.omnicoin/files/key-backup-base58 (MODE_PRIVATE)
 	Automatic backups of private keys for Mainnet
 
 
 Private keys can be manually backed up to and restored from external storage:
 
 
-/sdcard/Download/digitalcoin-wallet-keys-<yyyy-MM-dd>
+/sdcard/Download/omnicoin-wallet-keys-<yyyy-MM-dd>
 	Manual backups of private keys for Mainnet
 
-/sdcard/Download/digitalcoin-wallet-keys-testnet-<yyyy-MM-dd>
+/sdcard/Download/omnicoin-wallet-keys-testnet-<yyyy-MM-dd>
 	Manual backups of private keys for Testnet
 
 
@@ -77,7 +77,7 @@ Finally, you can build Bitcoin Wallet and sign it with your development key. Aga
 use
 
 	# first time only
-	git clone -b master https://github.com/HashEngineering/digitalcoin-wallet.git bitcoin-wallet
+	git clone -b master https://github.com/MeshCollider/omnicoin-wallet.git bitcoin-wallet
 
 	# each time
 	cd bitcoin-wallet
@@ -117,7 +117,7 @@ Make sure you've got Eclipse 3.7 (Indigo) with ADT 20 installed.
 Use Git to check out the project and an Android library dependency to your workspace:
 
 	# clone Bitcoin Wallet project
-	git clone -b master https://github.com/HashEngineering/digitalcoin-wallet.git bitcoin-wallet
+	git clone -b master https://github.com/MeshCollider/omnicoin-wallet.git bitcoin-wallet
 
 	# clone ActionBarSherlock library project
 	git clone https://github.com/JakeWharton/ActionBarSherlock.git action-bar-sherlock
@@ -187,8 +187,8 @@ The feed is described here:
 	https://blockchain.info/api/exchange_rates_api
 
 
-BITCOINJ
+OMNICOINJ
 
-Bitcoin Wallet uses bitcoinj for Bitcoin specific logic:
+Omnicoin Wallet uses omnicoinj for Omnicoin specific logic:
 
-http://code.google.com/p/bitcoinj/
+https://github.com/MeshCollider/omnicoinj
