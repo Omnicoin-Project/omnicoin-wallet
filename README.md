@@ -1,6 +1,6 @@
 Welcome to _Omnicoin Wallet_, a standalone omnicoin payment app for your Android device!
 
-![alt tag](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5cGH94w6MbLPaBojOdBAVmPM9pbqJm3LIn2gNd4tPKd1F8qbgmg)
+-> ![alt tag](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5cGH94w6MbLPaBojOdBAVmPM9pbqJm3LIn2gNd4tPKd1F8qbgmg) <-
 
 This project contains several sub-projects:
 
