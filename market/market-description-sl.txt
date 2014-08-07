@@ -3,7 +3,7 @@ Nosite svoje novce vedno s seboj v žepu. Plačila so hitra, le prečitate QR-ko
 LASTNOSTI:
 
 • Potrebna ni nobena registracija, spletna storitev ali oblak! Ta denarnica deluje povsem decentralizirano in vrstniško.
-• Prikaz zneskov v DGC, mDGC ali µDGC.
+• Prikaz zneskov v OMC, mOMC ali µOMC.
 • Samodejna pretvorba v evre in druge lokalne valute.
 • Pošiljanje in prejemanje omnicoinov prek NFC, QR-kod ali omnicoin URL-jev.
 • Zasebni imenik omnicoin naslovov.

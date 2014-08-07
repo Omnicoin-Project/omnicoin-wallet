@@ -2,7 +2,7 @@ omnicoin'leriniz daima cebinizde sizinle olsun! Herhangi bir QR kodunu okuyarak 
 
 İŞLEVLERİ:
 • Hiçbir oturuma, web ya da bulut hizmetine gerek yoktur. Bu cüzdan merkezsiz ve eşten eşedir.
-• omnicoin meblağlarının DGC ve mDGC olarak gösterilmesi.
+• omnicoin meblağlarının OMC ve mOMC olarak gösterilmesi.
 • Ulusal para birimlerine ve bu para birimlerinden dönüştürme.
 • NFC, QR kodu veya omnicoin bağlantıları ile omnicoin gönderir ve alır.
 • Sık kullanılan omnicoin adresleri için adres defteri içerir.

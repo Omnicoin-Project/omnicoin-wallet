@@ -3,7 +3,7 @@ omnicoiny vždy so sebou vo svojom vrecku. Jednoduché a rýchle platby pomocou 
 FUNKCIE:
 
 • Nie je potrebná žiadna registrácia ani žiadny účet.
-• Zobrazenie zostatku omnicoinov v DGC alebo mDGC.
+• Zobrazenie zostatku omnicoinov v OMC alebo mOMC.
 • Prepočet hodnoty omnicoinov do viacerých cudzích mien.
 • Posielanie a prijímanie omnicoinov pomocou NFC, QR kódov alebo omnicoin adries.
 • Adresár pre často používané omnicoin adresy.

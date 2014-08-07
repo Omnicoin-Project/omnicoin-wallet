@@ -271,7 +271,7 @@ public final class BitcoinIntegration
 	{
 		Toast.makeText(context, "No omnicoin application found.\nPlease install omnicoin Wallet.", Toast.LENGTH_LONG).show();
 
-		final Intent marketIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=net.meshcollision.omnicoinwallet"));
+		final Intent marketIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=net.meshcollision.omnicoin.wallet"));
 		final Intent binaryIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/MeshCollider/omnicoin-wallet/releases"));
 
 

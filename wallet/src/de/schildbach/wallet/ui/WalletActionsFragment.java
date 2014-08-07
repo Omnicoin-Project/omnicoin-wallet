@@ -26,7 +26,7 @@ import android.view.View.OnClickListener;
 import android.view.ViewGroup;
 import android.view.ViewParent;
 import android.widget.FrameLayout;
-import hashengineering.digitalcoin.wallet.R;
+import net.meshcollision.omnicoin.wallet.R;
 
 /**
  * @author Andreas Schildbach

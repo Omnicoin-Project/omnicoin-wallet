@@ -3,7 +3,7 @@ Hav altid dine omnicoins med dig i din lomme! Du betaler ved hurtigt at scanne e
 FUNKTIONER:
 
 • Ingen registrering, webservice eller sky behøves! Tegnebogen er decentraliseret og peer-to-peer.
-• Visning af omnicoin-beløb i DGC, mDGC og µDGC.
+• Visning af omnicoin-beløb i OMC, mOMC og µOMC.
 • Konvertering til og fra lokale valutaer.
 • Afsendelse og modtagelse af omnicoin via NFC, QR-koder eller omnicoin-URLer.
 • Adressebog til ofte brugte omnicoin-adresser.

@@ -3,7 +3,7 @@ Ten tus omnicoins siempre contigo, en tu bolsillo! Paga rápidamente escaneando 
 CARACTERÍSTICAS:
 
 • ¡No requiere registro, servidor en la nube o servicio web! Este monedero es auténticamente entre pares (peer-to-peer).
-• Muestra la cantidad de omnicoins en DGC y mDGC
+• Muestra la cantidad de omnicoins en OMC y mOMC
 • Conversión a divisas nacionales.
 • Envío y recepción de omnicoins vía NFC, códigos QR o URL de omnicoin.
 • Libreta de direcciones para guardar las direcciones omnicoin más utilizadas.

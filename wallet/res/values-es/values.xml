@@ -2,11 +2,11 @@
 <resources>
 
 	<string-array name="preferences_precision_labels">
-		<item>DGC, 8 dígitos</item>
-		<item>DGC, 6 dígitos</item>
-		<item>DGC, 4 dígitos</item>
-		<item>mDGC, 2 dígitos</item>
-		<item>µDGC, sin dígitos</item>
+		<item>OMC, 8 dígitos</item>
+		<item>OMC, 6 dígitos</item>
+		<item>OMC, 4 dígitos</item>
+		<item>mOMC, 2 dígitos</item>
+		<item>µOMC, sin dígitos</item>
 	</string-array>
 
 </resources>

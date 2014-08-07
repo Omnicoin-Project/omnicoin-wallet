@@ -3,7 +3,7 @@ Miej swoje omnicoiny zawsze w swojej kieszeni! Zapłacisz skanując kod QR. Jako
 WŁAŚCIWOŚCI:
 
 • Brak konieczności rejestracji, serwisu online lub chmury! Ten portfel używa zdecentralizowanej sieci peer-to-peer.
-• Wyświetl ilość kwotę w DGC i mDGC.
+• Wyświetl ilość kwotę w OMC i mOMC.
 • Zamiana z i na waluty narodowe
 • Wysyłąnie i odbieranie omnicoin za pomocą NFC, kodów QR czy adresów omnicoin URL.
 • Książka adresowa dla regularnie używanych adresów omnicoin.

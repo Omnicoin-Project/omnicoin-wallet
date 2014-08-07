@@ -3,7 +3,7 @@ Ayez vos omnicoins toujours avec vous dans votre poche ! Payez rapidement en num
 FONCTIONS :
 
 • Pas d'inscription, de service Web ou de nuage de nécessaire ! Ce portefeuille est décentralisé et de pair-à-pair.
-• Affichage du montant de omnicoin en DGC et mDGC.
+• Affichage du montant de omnicoin en OMC et mOMC.
 • Conversion vers et depuis des devises nationales.
 • Envoi et réception des omnicoins via NFC, codes QR ou des URLs omnicoin.
 • Carnet d'adresses pour les adresses omnicoin utilisées régulièrement.

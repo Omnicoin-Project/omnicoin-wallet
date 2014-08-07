@@ -47,7 +47,7 @@ import com.google.bitcoin.core.Transaction;
 import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.util.GenericUtils;
 import de.schildbach.wallet.util.WalletUtils;
-import hashengineering.digitalcoin.wallet.R;
+import net.meshcollision.omnicoin.wallet.R;
 
 /**
  * @author Andreas Schildbach

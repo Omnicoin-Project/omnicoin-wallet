@@ -3,7 +3,7 @@ Hab deine omnicoins immer dabei, in deiner Hosentasche! Du zahlst, indem du rasc
 FEATURES:
 
 • Keine Registrierung, Web-Dienst oder Cloud nötig! Diese Wallet ist dezentral und Peer to Peer.
-• Anzeige von omnicoin-Werten in DGC, mDGC und µDGC.
+• Anzeige von omnicoin-Werten in OMC, mOMC und µOMC.
 • Umrechnung von und zu den nationalen Währungen.
 • Senden und Empfangen von omnicoin via NFC, QR-Codes oder omnicoin URLs.
 • Adressbuch für regelmäßig genutzte Empfänger.

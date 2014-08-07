@@ -3,7 +3,7 @@ Tenha os seus omnicoins sempre com você, no seu bolso! Efetue pagamentos rapida
 CARACTERÍSTICAS:
 
 • Sem necessidade de cadastro, serviço web ou hospedagem! Esta carteira é descentralizada e "peer to peer".
-• Exibe a quantidade de omnicoins em DGC e mDGC.
+• Exibe a quantidade de omnicoins em OMC e mOMC.
 • Conversão para moedas nacionais.
 • Envio e recebimento de omnicoins via NFC, códigos QR ou endereços omnicoin.
 • Catálogo para guardar os endereços mais utilizados.

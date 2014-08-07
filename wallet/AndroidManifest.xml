@@ -81,7 +81,7 @@
 			<intent-filter>
 				<action android:name="android.nfc.action.NDEF_DISCOVERED" />
 
-				<data android:mimeType="application/x-dgctx" />
+				<data android:mimeType="application/x-omctx" />
 
 				<category android:name="android.intent.category.DEFAULT" />
 			</intent-filter>
