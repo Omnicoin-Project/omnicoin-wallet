@@ -1,19 +1,19 @@
-Dit is een standalone digitalcoin Wallet voor uw Android apparaat. U kan direct digitalcoins versturen tussen telefoons door simpelweg de QR-code te scannen die de app weergeeft of via NFC (Near Field Communication).
+Dit is een standalone omnicoin Wallet voor uw Android apparaat. U kan direct omnicoins versturen tussen telefoons door simpelweg de QR-code te scannen die de app weergeeft of via NFC (Near Field Communication).
 
 FUNCTIES:
 
-• Weergeven van het wallet saldo in digitalcoin en verschillende andere valuta.
-• Verzenden en ontvangen van digitalcoin via NFC, QR-codes of digitalcoin URLs.
-• Adresboek voor veelgebruikte digitalcoin adressen.
+• Weergeven van het wallet saldo in omnicoin en verschillende andere valuta.
+• Verzenden en ontvangen van omnicoin via NFC, QR-codes of omnicoin URLs.
+• Adresboek voor veelgebruikte omnicoin adressen.
 • Transacties ingeven tijdens het offline zijn, deze zullen worden uitgevoerd wanneer u online komt.
-• Systeem melding over digitalcoin connectiviteit en ontvangen digitalcoins.
-• Widget voor digitalcoin saldo.
+• Systeem melding over omnicoin connectiviteit en ontvangen omnicoins.
+• Widget voor omnicoin saldo.
 
-Voor meer informatie over digitalcoin kunt u terecht op
-http://digitalcoin.co
+Voor meer informatie over omnicoin kunt u terecht op
+http://www.omnicoin.org/
 
-Als u een bijdrage wil leveren aan digitalcoin Wallet, het project is te vinden op
-https://github.com/HashEngineering/digitalcoin-wallet
+Als u een bijdrage wil leveren aan omnicoin Wallet, het project is te vinden op
+https://github.com/MeshCollider/omnicoin-wallet
 
 Licentie: GPLv3
 Gebruik op eigen risico!

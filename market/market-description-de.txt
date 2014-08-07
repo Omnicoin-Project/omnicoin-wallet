@@ -1,21 +1,21 @@
-Hab deine digitalcoins immer dabei, in deiner Hosentasche! Du zahlst, indem du rasch einen QR-Code scannst. Als Händler empfängst du Zahlungen zuverlässig und sofort. digitalcoin Wallet ist die erste mobile digitalcoin app, und wohl auch die sicherste!
+Hab deine omnicoins immer dabei, in deiner Hosentasche! Du zahlst, indem du rasch einen QR-Code scannst. Als Händler empfängst du Zahlungen zuverlässig und sofort. omnicoin Wallet ist die erste mobile omnicoin app, und wohl auch die sicherste!
 
 FEATURES:
 
 • Keine Registrierung, Web-Dienst oder Cloud nötig! Diese Wallet ist dezentral und Peer to Peer.
-• Anzeige von digitalcoin-Werten in DGC, mDGC und µDGC.
+• Anzeige von omnicoin-Werten in DGC, mDGC und µDGC.
 • Umrechnung von und zu den nationalen Währungen.
-• Senden und Empfangen von digitalcoin via NFC, QR-Codes oder digitalcoin URLs.
+• Senden und Empfangen von omnicoin via NFC, QR-Codes oder omnicoin URLs.
 • Adressbuch für regelmäßig genutzte Empfänger.
 • Wenn du offline bist, kannst du trotzdem über Bluetooth zahlen.
 • System-Benachrichtigung für den Empfang von Zahlungen.
-• App-Widget zeigt digitalcoin-Guthaben an.
+• App-Widget zeigt omnicoin-Guthaben an.
 
-Weitere Informationen zu digitalcoin findest Du unter
-http://digitalcoin.co
+Weitere Informationen zu omnicoin findest Du unter
+http://www.omnicoin.org/
 
-Wenn Du zu digitalcoin Wallet beitragen willst, das Projekt befindet sich auf
-https://github.com/HashEngineering/digitalcoin-wallet
+Wenn Du zu omnicoin Wallet beitragen willst, das Projekt befindet sich auf
+https://github.com/MeshCollider/omnicoin-wallet
 
 Lizenz: GPLv3
 Nutzung auf eigene Gefahr!

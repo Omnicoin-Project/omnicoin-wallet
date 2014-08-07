@@ -1,19 +1,19 @@
-Tato aplikace je peněženka s digitalcoiny pro systém Android. Můžete posílat digitalcoiny mezi telefony prostým naskenováním QR kódu, který je zobrazen aplikací, nebo pomocí NFC (Near Field Communication).
+Tato aplikace je peněženka s omnicoiny pro systém Android. Můžete posílat omnicoiny mezi telefony prostým naskenováním QR kódu, který je zobrazen aplikací, nebo pomocí NFC (Near Field Communication).
 
 VLASTNOSTI:
 
-• Zobrazení zůstatku peněženky v digitalcoinech a několika jiných měnách.
-• Odesílání a přijímání digitalcoinů pomocí NFC, QR-kódů, nebo digitalcoin adres.
+• Zobrazení zůstatku peněženky v omnicoinech a několika jiných měnách.
+• Odesílání a přijímání omnicoinů pomocí NFC, QR-kódů, nebo omnicoin adres.
 • Adresář pro často používané adresy.
 • Možnost zadávání transakcí v offline režimu, k jejich zpracování dojde po připojení.
-• Oznamování v liště při synchronizaci a při přijetí digitalcoinů.
+• Oznamování v liště při synchronizaci a při přijetí omnicoinů.
 • Widget s celkovým zůstatkem.
 
-Více informací o digitalcoinech
-http://digitalcoin.co
+Více informací o omnicoinech
+http://www.omnicoin.org/
 
-Pokud chcete přispět do projektu digitalcoin Wallet, naleznete jej na adrese
-https://github.com/HashEngineering/digitalcoin-wallet
+Pokud chcete přispět do projektu omnicoin Wallet, naleznete jej na adrese
+https://github.com/MeshCollider/omnicoin-wallet
 
 License: GPLv3
 Použití pouze na vlastní riziko!
