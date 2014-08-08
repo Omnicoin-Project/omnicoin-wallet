@@ -30,3 +30,5 @@ Things that still need updating:
 * omnicoin-wallet\wallet\res\xml\about.xml
 * omnicoin-wallet\wallet\src\de\schildbach\wallet\Constants.java
 * Readme.forks?
+
+Developed by MeshCollider. See AUTHORS for credits.
