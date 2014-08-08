@@ -26,7 +26,6 @@ You can build all sub-projects at once using Maven:
 `mvn clean install`
 
 Things that still need updating:
-* Developer information in AUTHORS
 * omnicoin-wallet\wallet\res\xml\about.xml
 * omnicoin-wallet\wallet\src\de\schildbach\wallet\Constants.java
 * Readme.forks?
