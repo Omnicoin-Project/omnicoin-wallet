@@ -26,6 +26,6 @@ You can build all sub-projects at once using Maven:
 `mvn clean install`
 
 Things that still need updating:
-* omnicoin-wallet\wallet\src\de\schildbach\wallet\Constants.java
+* Nothing that I know of!
 
 Developed by MeshCollider. See AUTHORS for credits.
