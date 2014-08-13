@@ -79,7 +79,7 @@ import de.schildbach.wallet.ui.WalletActivity;
 import de.schildbach.wallet.util.CrashReporter;
 import de.schildbach.wallet.util.GenericUtils;
 import de.schildbach.wallet.util.WalletUtils;
-import net.meshcollision.omnicoin.wallet.R;
+import de.schildbach.wallet.omnicoin.R;
 import de.schildbach.wallet.util.ThrottlingWalletChangeListener;
 import org.litecoin.LitecoinPeerDBDiscovery;
 import com.google.bitcoin.net.discovery.IrcDiscovery;
