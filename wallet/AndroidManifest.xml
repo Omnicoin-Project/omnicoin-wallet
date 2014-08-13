@@ -2,7 +2,7 @@
 <!-- Need to update this for the coin -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 	xmlns:tools="http://schemas.android.com/tools"
-	package="net.meshcollision.omnicoin.wallet"
+	package="de.schildbach.wallet.omnicoin"
 	android:installLocation="internalOnly"
 	android:installLocation="internalOnly"
 
@@ -194,12 +194,12 @@
         <!-- Need to update this for the coin -->
 		<provider
 			android:name="de.schildbach.wallet.AddressBookProvider"
-			android:authorities="net.meshcollision.omnicoin.wallet.address_book"
+			android:authorities="de.schildbach.wallet.omnicoin.address_book"
 			android:exported="false" />
         <!-- Need to update this for the coin -->
 		<provider
 			android:name="de.schildbach.wallet.ExchangeRatesProvider"
-			android:authorities="net.meshcollision.omnicoin.wallet.exchange_rates"
+			android:authorities="de.schildbach.wallet.omnicoin.exchange_rates"
 			android:exported="false" />
 
 		<receiver
