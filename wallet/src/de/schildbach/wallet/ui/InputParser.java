@@ -50,7 +50,7 @@ import de.schildbach.wallet.util.PaymentProtocol;
 import de.schildbach.wallet.util.Qr;
 
 import com.google.bitcoin.core.CoinDefinition;
-import net.meshcollision.omnicoin.wallet.R;
+import de.schildbach.wallet.omnicoin.R;
 
 
 /**
