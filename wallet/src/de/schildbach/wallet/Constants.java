@@ -28,7 +28,7 @@ import com.google.bitcoin.core.NetworkParameters;
 import com.google.bitcoin.params.MainNetParams;
 import com.google.bitcoin.params.TestNet3Params;
 import com.google.bitcoin.core.CoinDefinition;
-import net.meshcollision.omnicoin.wallet.R;
+import de.schildbach.wallet.omnicoin.R;
 
 /**
  * @author Andreas Schildbach
