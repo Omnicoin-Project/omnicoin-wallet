@@ -28,7 +28,7 @@ import com.actionbarsherlock.view.Menu;
 import com.actionbarsherlock.view.MenuItem;
 import net.meshcollision.omnicoin.wallet.R;
 import de.schildbach.wallet.PaymentIntent;
-import net.meshcollision.omnicoin.wallet.R;
+import de.schildbach.wallet.omnicoin.R;
 /**
  * @author Andreas Schildbach
  */
