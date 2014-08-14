@@ -79,7 +79,7 @@ import de.schildbach.wallet.util.Nfc;
 import de.schildbach.wallet.util.Qr;
 import de.schildbach.wallet.util.WalletUtils;
 
-import net.meshcollision.omnicoin.wallet.R;
+import de.schildbach.wallet.omnicoin.R;
 import de.schildbach.wallet.util.ThrottlingWalletChangeListener;
 
 
