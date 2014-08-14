@@ -58,7 +58,7 @@ import com.google.zxing.common.HybridBinarizer;
 import com.google.zxing.qrcode.QRCodeReader;
 
 import de.schildbach.wallet.camera.CameraManager;
-import net.meshcollision.omnicoin.wallet.R;
+import de.schildbach.wallet.omnicoin.R;
 
 /**
  * @author Andreas Schildbach
