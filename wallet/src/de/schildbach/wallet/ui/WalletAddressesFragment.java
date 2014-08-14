@@ -59,7 +59,7 @@ import de.schildbach.wallet.util.BitmapFragment;
 import de.schildbach.wallet.util.Qr;
 import de.schildbach.wallet.util.WalletUtils;
 
-import net.meshcollision.omnicoin.wallet.R;
+import de.schildbach.wallet.omnicoin.R;
 
 
 /**
