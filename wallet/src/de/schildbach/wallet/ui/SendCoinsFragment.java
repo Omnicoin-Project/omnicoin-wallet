@@ -106,7 +106,7 @@ import de.schildbach.wallet.util.GenericUtils;
 import de.schildbach.wallet.util.Nfc;
 import de.schildbach.wallet.util.PaymentProtocol;
 import de.schildbach.wallet.util.WalletUtils;
-import net.meshcollision.omnicoin.wallet.R;
+import de.schildbach.wallet.omnicoin.R;
 
 /**
  * @author Andreas Schildbach
