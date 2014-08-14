@@ -51,7 +51,7 @@ import de.schildbach.wallet.AddressBookProvider;
 import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.util.CircularProgressView;
 import de.schildbach.wallet.util.WalletUtils;
-import net.meshcollision.omnicoin.wallet.R;
+import de.schildbach.wallet.omnicoin.R;
 
 /**
  * @author Andreas Schildbach
