@@ -114,7 +114,7 @@ public class Constants
     public static final String CREDITS_WEBSITE_URL = "http://www.omnicoin.org/";
     public static final String CREDITS_FORUM_URL = "http://www.hackforums.net/";
 
-	public static final String CREDITS_ICON_URL = "https://bitcointalk.org/index.php?action=profile;u=2062";
+	public static final String CREDITS_ICON_URL = "https://bitcointalk.org/index.php?action=profile;u=365238";
 
 	public static final String AUTHOR_TWITTER_URL = "https://twitter.com/MeshCollider";
 	public static final String AUTHOR_GOOGLEPLUS_URL = "https://plus.google.com/101124652358986103887";
