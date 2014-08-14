@@ -35,7 +35,7 @@ import de.schildbach.wallet.AddressBookProvider;
 import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.WalletApplication;
 import de.schildbach.wallet.util.*;
-import net.meshcollision.omnicoin.wallet.R;
+import de.schildbach.wallet.omnicoin.R;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
