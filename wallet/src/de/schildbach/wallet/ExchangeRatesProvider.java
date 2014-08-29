@@ -264,7 +264,7 @@ public class ExchangeRatesProvider extends ContentProvider
         // Keep the LTC rate around for a bit
         Double btcRate = 0.0;
         String currencyCryptsy = CoinDefinition.cryptsyMarketCurrency;
-        String urlCryptsy = "http://pubapi.cryptsy.com/api.php?method=singlemarketdata&marketid="+ CoinDefinition.cryptsyMarketId;
+        String urlCryptsy = "http://allcrypt.com/api.php?method=singlemarketdata&marketid="+ CoinDefinition.cryptsyMarketId;
 
 
 
