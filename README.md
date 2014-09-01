@@ -1,13 +1,14 @@
-Welcome to _Omnicoin Wallet_, a standalone omnicoin payment app for your Android device!
+<div align="center"><h1>Welcome to <b>Omnicoin Wallet</b></h1></div>
 
-Omnicoin is an experiment in the creation, implementation, and integration of a cryptocurrency with MyBB community software in mind. 
-Originally created by a member of HackForums.net it's grown beyond that initial ideal and has moved into a wider realm of possibility. 
-With a new launch of version 2 (OMCv2), a new team, and renewed focus Omnicoin promises to gain ground which no other crypto currency has tread.
+<div align="center">A standalone omnicoin payment app for your Android device!</div>
 
-Check out http://www.omnicoin.org/ for more info.
 
-![alt tag](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5cGH94w6MbLPaBojOdBAVmPM9pbqJm3LIn2gNd4tPKd1F8qbgmg)
+<div align="center"><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5cGH94w6MbLPaBojOdBAVmPM9pbqJm3LIn2gNd4tPKd1F8qbgmg" /></div>
 
+<div align="center">Visit the <a href="https://github.com/Omnicoin-Project/Omnicoin/wiki">Omnicoin Wiki</a> for more information</div>
+
+
+<br />
 This project contains several sub-projects:
 
  * __wallet__:
@@ -21,10 +22,7 @@ This project contains several sub-projects:
      A minimal example app to demonstrate integration of omnicoin payments into
      your Android app.
 
-You can build all sub-projects at once using Maven:
-
-`mvn clean install`
-
+<br />
 Things that still need updating:
 * Nothing that I know of!
 
