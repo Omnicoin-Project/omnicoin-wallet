@@ -23,7 +23,7 @@ This project contains several sub-projects:
      your Android app.
 
 <br />
-Things that still need updating:
-* Nothing that I know of!
+
+<code>mvn clean install -Dandroid.sdk.path=../../android-sdk -DskipTests</code>
 
 Developed by MeshCollider. See AUTHORS for credits.
