@@ -4,11 +4,11 @@
 	<string name="help_wallet">
 <![CDATA[
 		<p>
-			La parte in alto a sinistra dello schermo mostra gli indirizzo omnicoin che le altre persone hanno bisogno per poterti inviare dei omnicoin.
+			La parte in alto a sinistra dello schermo mostra gli indirizzo Omnicoin che le altre persone hanno bisogno per poterti inviare dei Omnicoin.
 			Premi per cambiare l\'indirizzo.
 		</p>
 		<p>
-			Il codice QR sulla destra contiene il tuo indirizzo omnicoin e può essere usato per farlo leggere ad altri.
+			Il codice QR sulla destra contiene il tuo indirizzo Omnicoin e può essere usato per farlo leggere ad altri.
 			Premi sul codice per visualizzarne una versione più grande.
 		</p>
 		<p>
@@ -23,7 +23,7 @@
 			Trascina a destra o sinistra per impostare dei filtri alla lista.
 		</p>
 		<p>
-			Puoi inviare o ricevere omnicoins premendo i tasti nella barra delle azioni.
+			Puoi inviare o ricevere Omnicoins premendo i tasti nella barra delle azioni.
 			Sono disponibili ulteriori comandi nel menù opzioni.
 		</p>
 	]]>
@@ -31,19 +31,19 @@
 	<string name="help_request_coins">
 <![CDATA[
 		<p>
-			Utilizzando questa finestra puoi richiedere dei omnicoin ad un\'altra persona
-			(che dovrebbe aver già installato omnicoin Wallet).
+			Utilizzando questa finestra puoi richiedere dei Omnicoin ad un\'altra persona
+			(che dovrebbe aver già installato Omnicoin Wallet).
 		</p>
 		<p>
-			Come prima cosa puoi inserire il numero di omnicoin da richiedere.
+			Come prima cosa puoi inserire il numero di Omnicoin da richiedere.
 		</p>
 		<p>
 			Poi puoi generare dei codici QR da far acquisire all\'altra persona.
 			Oppure puoi inviare la richiesta con il tasto "condividi" nella barra azioni.
-			La persona che riceve la richiesta dovrà cliccare l\'URL omnicoin.
+			La persona che riceve la richiesta dovrà cliccare l\'URL Omnicoin.
 		</p>
 		<p>
-			In ogni modo alla persona ricevente verrà presentata un modulo precompilato per inviare i omnicoin.
+			In ogni modo alla persona ricevente verrà presentata un modulo precompilato per inviare i Omnicoin.
 			Per confermare l\'invio dovrà solo accettare la transazione.
 		</p>
 	]]>
@@ -51,24 +51,24 @@
 	<string name="help_send_coins">
 <![CDATA[
 		<p>
-			Hai iniziato il processo per inviare omnicoins.
-			Sei giunto qui a partire dalla schermata principale o cliccando su di un URL omnicoin dal tuo browser.
+			Hai iniziato il processo per inviare Omnicoins.
+			Sei giunto qui a partire dalla schermata principale o cliccando su di un URL Omnicoin dal tuo browser.
 		</p>
 		<p>
-			Come prima cosa è necessario inserire l\'indirizzo omnicoin a cui inviare.
+			Come prima cosa è necessario inserire l\'indirizzo Omnicoin a cui inviare.
 			L\'indirizzo si autocompleterà in base al contenuto della tua rubrica.
-			Puoi anche acquisire un codice QR che contiene indirizzi omnicoin o richieste omnicoin premendo il tasto QR sulla barra azioni.
+			Puoi anche acquisire un codice QR che contiene indirizzi Omnicoin o richieste Omnicoin premendo il tasto QR sulla barra azioni.
 		</p>
 		<p>
-			Ti è poi possibile visualizzare quanti omnicoin puoi spendere.
+			Ti è poi possibile visualizzare quanti Omnicoin puoi spendere.
 			Eventuali differenze con il saldo visualizzato sulla schermata principale fanno parte di transazioni
 			non ancora confermate il cui importo non può quindi essere ancora utilizzato.
 		</p>
 		<p>
-			Puoi infine inserire il numero di omnicoin da inviare.
+			Puoi infine inserire il numero di Omnicoin da inviare.
 		</p>
 		<p>
-			Puoi inserire una transazione anche senza collegamento ad Internet, verrà inviata alla prossima esecuzione di omnicoin Wallet.
+			Puoi inserire una transazione anche senza collegamento ad Internet, verrà inviata alla prossima esecuzione di Omnicoin Wallet.
 			Se vuoi che la transazione venga processata il prima possibile assicurati di avere un buon collegamento ad Internet.
 		</p>
 		<p>
@@ -81,20 +81,20 @@
 	<string name="help_safety">
 <![CDATA[
 		<p>
-			<b>Alcune informazioni riguardo la sicurezza relativa ai vostri omnicoins:</b>
+			<b>Alcune informazioni riguardo la sicurezza relativa ai vostri Omnicoins:</b>
 		</p>
 		<p>
-			I omnicoins di omnicoin Wallet vengono memorizzati sul dispositivo.
-			<b>Se perdi il dispositivo, perdi i tuoi omnicoin.</b>
+			I Omnicoins di Omnicoin Wallet vengono memorizzati sul dispositivo.
+			<b>Se perdi il dispositivo, perdi i tuoi Omnicoin.</b>
 			Esattamente come denaro nel tuo vero portafoglio.
 		</p>
 		<p>
-			<b>Prima di disinstallare omnicoin Wallet</b> (o cancellare i dati dell\'applicazione o del dispositivo), <b>trasferisci i tuoi omnicoins ad un altro portafoglio</b>.
-			Eventuali omnicoin non trasferiti saranno persi per sempre.
+			<b>Prima di disinstallare Omnicoin Wallet</b> (o cancellare i dati dell\'applicazione o del dispositivo), <b>trasferisci i tuoi Omnicoins ad un altro portafoglio</b>.
+			Eventuali Omnicoin non trasferiti saranno persi per sempre.
 		</p>
 		<p>
 			<b>I pagamenti non possono essere annullate</b>.
-			Se invi i tuoi omnicoin ad indirizzi errati non c\'è modo di riaverli indietro
+			Se invi i tuoi Omnicoin ad indirizzi errati non c\'è modo di riaverli indietro
 			a meno che tu non conosca il ricevente e che sia disponibile a restituirli.
 		</p>
 		<p>
@@ -104,7 +104,7 @@
 		</p>
 		<p>
 			Tieni basso il rischio!
-			<b>Usa omnicoin Wallet solo con piccoli importi</b> sufficienti per l\'uso quotidiano.
+			<b>Usa Omnicoin Wallet solo con piccoli importi</b> sufficienti per l\'uso quotidiano.
 		</p>
 	]]>
 	</string>

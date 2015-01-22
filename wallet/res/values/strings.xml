@@ -40,12 +40,12 @@
 	<string name="wallet_options_backup">Back up Keys</string>
 	<string name="wallet_options_safety">Safety notes</string>
 	<string name="wallet_options_donate">Tip / Donate</string>
-	<string name="wallet_donate_address_label">Donation for omnicoin Wallet</string>
+	<string name="wallet_donate_address_label">Donation for Omnicoin Wallet</string>
 	<string name="wallet_low_storage_dialog_title">Internal Device Storage Space Low!</string>
-	<string name="wallet_low_storage_dialog_msg">Omnicoin Wallet uses internal storage for remembering transactions and blocks. If it runs out of space, it will stop working and your omnicoins will be at risk!\n\nDo you want to open the Application Manager to uninstall unneeded apps?</string>
+	<string name="wallet_low_storage_dialog_msg">Omnicoin Wallet uses internal storage for remembering transactions and blocks. If it runs out of space, it will stop working and your Omnicoins will be at risk!\n\nDo you want to open the Application Manager to uninstall unneeded apps?</string>
 	<string name="wallet_low_storage_dialog_button_apps">Manage Apps</string>
 	<string name="wallet_timeskew_dialog_title">Check your time settings!</string>
-	<string name="wallet_timeskew_dialog_msg">Your device time is off by %d minutes. You probably cannot send or receive omnicoins due to this problem.\n\nYou should check and correct your time and timezone settings.</string>
+	<string name="wallet_timeskew_dialog_msg">Your device time is off by %d minutes. You probably cannot send or receive Omnicoins due to this problem.\n\nYou should check and correct your time and timezone settings.</string>
 
 	<string name="wallet_version_dialog_title">A new version is available!</string>
 	<string name="wallet_version_dialog_msg">This version fixes important bugs. For details, see the change log on Google Play.</string>
@@ -227,7 +227,7 @@
 	<string name="report_issue_dialog_mail_intent_failed">Sending report failed.</string>
 	<string name="about_title">About</string>
 	<string name="about_license_title">License</string>
-	<string name="about_credits_bitcoinj_title">This app is using omnicoinj %s</string>
+	<string name="about_credits_bitcoinj_title">This app is using Omnicoinj %s</string>
 	<string name="about_credits_zxing_title">"This app is using 'zxing'"</string>
 
 	<string name="about_credits_icon_title">"This app is using the official Omnicoin icon"</string>

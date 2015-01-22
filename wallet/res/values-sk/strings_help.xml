@@ -4,16 +4,16 @@
 	<string name="help_wallet">
 <![CDATA[
 		<p>
-			V ľavej hornej časti obrazovky je Vaša aktuálna omnicoin adresa, túto adresu potrebuje poznať odosielateľ, aby Vám mohol poslať omnicoiny.
+			V ľavej hornej časti obrazovky je Vaša aktuálna Omnicoin adresa, túto adresu potrebuje poznať odosielateľ, aby Vám mohol poslať Omnicoiny.
 			Kliknutím na adresu ju môžte zmeniť.
 		</p>
 		<p>
-			QR kód na pravej strane obsahuje Vašu omnicoin adresu, odosielateľ ho môže jednoducho naskenovať.
+			QR kód na pravej strane obsahuje Vašu Omnicoin adresu, odosielateľ ho môže jednoducho naskenovať.
 			Kliknite na QR kód, aby ste ho zväčšili.
 		</p>
 		<p>
 			V strede obrazovky je zobrazený aktuálny zostatok.
-			Hodnota Vašich omnicoinov je zobrazená aj v inej zvolenej mene.
+			Hodnota Vašich Omnicoinov je zobrazená aj v inej zvolenej mene.
 			Kliknutím na zostatok zobrazíte zoznam cudzích mien, následným kliknutím na menu ju môžte nastaviť ako predvolenú.
 		</p>
 		<p>
@@ -23,7 +23,7 @@
 			Ťahom vľavo a vpravo môžte filtrovať prijaté a odoslané platby.
 		</p>
 		<p>
-			Kliknutím na tlačidlá naspodku môžte poslať alebo vyžiadať omnicoiny.
+			Kliknutím na tlačidlá naspodku môžte poslať alebo vyžiadať Omnicoiny.
 			Ďalšie možnosti sú v ponuke nastavení.
 		</p>
 	]]>
@@ -31,18 +31,18 @@
 	<string name="help_request_coins">
 <![CDATA[
 		<p>
-			Na tejto obrazovke môžete vyžiadať omnicoiny od niekoho iného (kto má nainštalovanú aplikáciu omnicoin Wallet).
+			Na tejto obrazovke môžete vyžiadať Omnicoiny od niekoho iného (kto má nainštalovanú aplikáciu Omnicoin Wallet).
 		</p>
 		<p>
-			Najprv zadajte sumu omnicoinov, ktoré chcete vyžiadať.
+			Najprv zadajte sumu Omnicoinov, ktoré chcete vyžiadať.
 		</p>
 		<p>
 			Potom dajte druhej strane naskenovať vygenerovaný QR kód
 			alebo môžte svoju žiadosť poslať použitím tlačidla zdieľať.
-			Druhá strana potom klikne na omnicoin URL.
+			Druhá strana potom klikne na Omnicoin URL.
 		</p>
 		<p>
-			V oboch prípadoch druhá strana uvidí predvyplnenú obrazovku na odosielanie omnicoinov.
+			V oboch prípadoch druhá strana uvidí predvyplnenú obrazovku na odosielanie Omnicoinov.
 			Ak s transakciou súhlasí, tak ju iba potvrdí.
 		</p>
 	]]>
@@ -50,17 +50,17 @@
 	<string name="help_send_coins">
 <![CDATA[
 		<p>
-			Práve ste začali proces odosielania omnicoinov.
-			Dostali ste sa sem z hlavnej obrazovky alebo kliknutím na omnicoin adresu v prehliadači.
+			Práve ste začali proces odosielania Omnicoinov.
+			Dostali ste sa sem z hlavnej obrazovky alebo kliknutím na Omnicoin adresu v prehliadači.
 		</p>
 		<p>
 			Najprv zadajte adresu, na ktorú chcete odoslať platbu.
 			Ak sa adresa nachádza v adresári, tak sa automaticky doplní.
-			Kliknutím na ikonu fotoaparátu môžete naskenovať QR kód s omnicoin adresou alebo požiadavkou na zaplatenie.
+			Kliknutím na ikonu fotoaparátu môžete naskenovať QR kód s Omnicoin adresou alebo požiadavkou na zaplatenie.
 		</p>
 		<p>
-			Ďalej vidíte koľko omnicoinov môžete aktuálne minúť.
-			Rozdiel medzi zostatkom na hlavnej obrazovke a počtom omnicoinov, ktoré môžete minúť tvoria nepotvrdené transakcie.
+			Ďalej vidíte koľko Omnicoinov môžete aktuálne minúť.
+			Rozdiel medzi zostatkom na hlavnej obrazovke a počtom Omnicoinov, ktoré môžete minúť tvoria nepotvrdené transakcie.
 		</p>
 		<p>
 			Nakoniec zadajte sumu platby.
@@ -83,8 +83,8 @@
 			<b>Dôležité informácie o bezpečnosti:</b>
 		</p>
 		<p>
-			omnicoiny sú uložené na Vašom zariadení.
-			<b>Ak zariadenie stratíte, prídete o všetky svoje omnicoiny.</b>
+			Omnicoiny sú uložené na Vašom zariadení.
+			<b>Ak zariadenie stratíte, prídete o všetky svoje Omnicoiny.</b>
 		</p>
 		<p>
 			To znamená, že by ste mali <b>zálohovať svoju peňaženku</b>!
@@ -92,12 +92,12 @@
 			Svoju zálohu bezpečne uchovajte a nezabudnite heslo.
 		</p>
 		<p>
-			<b>Pred odinštalovaním</b> (alebo vymazaním dát/obnovením továrenských nastavení), <b>odošlite svoje omnicoiny do inej peňaženky</b>.
-			Inak o svoje omnicoiny prídete.
+			<b>Pred odinštalovaním</b> (alebo vymazaním dát/obnovením továrenských nastavení), <b>odošlite svoje Omnicoiny do inej peňaženky</b>.
+			Inak o svoje Omnicoiny prídete.
 		</p>
 		<p>
 			<b>Platby sa nedajú stornovať</b>.
-			Ak pošlete svoje omnicoiny na nesprávnu adresu, je takmer nemožné získať ich späť.
+			Ak pošlete svoje Omnicoiny na nesprávnu adresu, je takmer nemožné získať ich späť.
 		</p>
 		<p>
 			<b>Chráňte si svoje zariadenie!</b>

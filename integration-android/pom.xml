@@ -11,7 +11,7 @@
 
 
 	<parent>
-		<groupId>de.schildbach.wallet</groupId>
+		<groupId>net.meshcollision.wallet</groupId>
 		<artifactId>base</artifactId>
 		<version>1</version>
 	</parent>

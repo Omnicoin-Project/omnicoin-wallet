@@ -63,7 +63,7 @@
     <orderEntry type="library" name="Maven: com.lambdaworks:scrypt:1.3.3" level="project" />
     <orderEntry type="library" name="Maven: com.subgraph:orchid:1.0-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.6" level="project" />
-    <orderEntry type="library" name="Maven: de.schildbach.wallet:integration-android:2.0" level="project" />
+    <orderEntry type="library" name="Maven: net.meshcollision.wallet:integration-android:2.0" level="project" />
     <orderEntry type="library" name="Maven: com.google.zxing:core:3.0.1" level="project" />
     <orderEntry type="library" name="Maven: com.github.tony19:logback-android-classic:1.1.1-1" level="project" />
     <orderEntry type="library" name="Maven: com.github.tony19:apktool-lib:1.4.4-3" level="project" />
