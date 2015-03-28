@@ -24,7 +24,7 @@ This project contains several sub-projects:
 
 <br />
 
-# COMPILATION INSTRUCTIONS
+### COMPILATION INSTRUCTIONS
 1. Clone the git repository <code>git clone https://github.com/MeshCollider/omnicoin-wallet.git</code>
 2. Make sure you have the Java Development Kit (JDK) and Maven version 3.0.5 installed and in your path, and make sure JAVA_HOME is set to your JDK root directory.
 3. Download the android SDK and make sure you download the necessary API level versions for the wallet
