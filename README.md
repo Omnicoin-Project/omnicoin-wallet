@@ -28,7 +28,7 @@ This project contains several sub-projects:
 1. Clone the git repository <code>git clone https://github.com/MeshCollider/omnicoin-wallet.git</code>
 2. Make sure you have the Java Development Kit (JDK) and Maven version 3.0.5 installed and in your path, and make sure JAVA_HOME is set to your JDK root directory.
 3. Download the android SDK and make sure you download the necessary API level versions for the wallet
-4. Compile the wallet with this command executed inside the omnicoin-wallet directory, where ../../android-sdk is replaced with the path to your android SDK: <code>mvn clean install -Dandroid.sdk.path=../../android-sdk -DskipTests</code>
+4. Compile the wallet with this command executed inside the omnicoin-wallet directory, where ../../android-sdk is replaced with the path to your android SDK: <code>mvn clean install -Dandroid.sdk.path=../../android-sdk -DskipTests -Prelease</code>
 5. The APK file will then be found in wallet/target directory.
 6. 
 ### SIGNING THE APK FILE
