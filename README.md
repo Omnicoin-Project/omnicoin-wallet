@@ -32,7 +32,7 @@ This project contains several sub-projects:
 5. The APK file will then be found in wallet/target directory.
 6. 
 ### SIGNING THE APK FILE
-1. Run <code>jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore omnicoin-wallet-keystore.keystore wallet-unsigned.apk Omnicoin</code> where omnicoin-wallet-keystore.keystore is the keystore, and wallet-unsigned.apk is the unsigned APK file, and Omnicoin is the alias name from your keystore.
-2. Align the APK with: <code>zipalign -v 4 wallet-signed.apk wallet.apk</code>
+1. Run <code>jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore omnicoin-wallet-keystore.keystore wallet-unsigned.apk Omnicoin</code> where omnicoin-wallet-keystore.keystore is the keystore, and wallet-unsigned.apk is the unsigned APK file, and Omnicoin is the alias name from your keystore. jarsigner is found in JDK\bin directory
+2. Align the APK with: <code>zipalign -v 4 wallet-signed.apk wallet.apk</code> zipalign is found in android-sdk\build-tools directory
 
 Developed by MeshCollider. See AUTHORS for credits.
