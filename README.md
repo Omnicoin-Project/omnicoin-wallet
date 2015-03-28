@@ -30,5 +30,9 @@ This project contains several sub-projects:
 3. Download the android SDK and make sure you download the necessary API level versions for the wallet
 4. Compile the wallet with this command executed inside the omnicoin-wallet directory, where ../../android-sdk is replaced with the path to your android SDK: <code>mvn clean install -Dandroid.sdk.path=../../android-sdk -DskipTests</code>
 5. The APK file will then be found in wallet/target directory.
+6. 
+### SIGNING THE APK FILE
+1. Run <code>jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.keystore my_application.apk alias_name</code> where my-release-key.keystore is the keystore, and my_application.apk is the unsigned APK file, and alias_name is the alias name from your keystore (Omnicoin).
+2. Align the APK with: <code>zipalign -v 4 wallet-unaligned.apk wallet.apk</code>
 
 Developed by MeshCollider. See AUTHORS for credits.
