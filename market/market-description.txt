@@ -10,6 +10,7 @@ FEATURES:
 • When you're offline, you can still pay via Bluetooth.
 • System notification for received coins.
 • App widget for omnicoin balance.
+• Sweeping of paper wallets (e.g. those used for cold storage).
 
 You can find more about omnicoin at
 http://www.omnicoin.org/
